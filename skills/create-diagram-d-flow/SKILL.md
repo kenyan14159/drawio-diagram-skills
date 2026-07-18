@@ -1,5 +1,6 @@
 ---
-description: draw.io業務フロー系（業務フロー/ギャップ分析）を作成する
+name: create-diagram-d-flow
+description: draw.io業務フロー系（業務フロー/ギャップ分析）を作成する。「業務フロー図」「ギャップ分析図」「スイムレーン」「As-Is/To-Be」で起動
 ---
 
 # draw.io 業務フロー系ワークフロー（WF-D-Flow）v2.0
@@ -184,7 +185,7 @@ description: draw.io業務フロー系（業務フロー/ギャップ分析）�
 
 ## 参照
 
-共通規格（VDS・命名規則）は `/select-diagram` を参照
+共通規格（VDS・命名規則）は `create-diagram` スキルの `SKILL.md` を参照
 
 **雛形テンプレート**:
 - `assets/業務フロー_template.drawio`（マッチングアプリ Project RESONA の業務フロー完成例・101要素）

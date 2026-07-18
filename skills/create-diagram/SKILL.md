@@ -1,5 +1,6 @@
 ---
-description: draw.ioで各種図（業務フロー/システム構成/ER図/シーケンス図等）を作成する
+name: create-diagram
+description: draw.ioで各種図（業務フロー/システム構成/ER図/シーケンス図等）を作成する。「図を描いて」「ダイアグラム」「draw.io」「構成図」「フロー図」「/create-diagram」で起動。図種が明確なら create-diagram-d-flow / create-diagram-d-nodeedge が担当
 ---
 
 # draw.io 図作成ワークフロー（汎用）
