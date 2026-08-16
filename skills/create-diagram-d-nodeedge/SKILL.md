@@ -7,16 +7,15 @@ description: draw.ioノード＋エッジ系（体制図/状態遷移/ジャー�
 
 ## 対象図種別
 
-| ID               | 説明                 |
-| ---------------- | -------------------- |
-| `plan_org_chart` | ① プロジェクト体制図 |
-
-| `biz_state_transition` | ⑤ ステータス遷移図 |
-| `req_customer_journey` | ⑥ カスタマージャーニー |
-| `req_system_context` | ⑦ システム構成図 |
-| `base_screen_transition` | ⑧ 画面遷移図 |
-| `base_infra_architecture` | ⑨ インフラ構成図 |
-| `mig_data_flow` | ⑬ データ移行方式図 |
+| ID                        | 説明                   |
+| ------------------------- | ---------------------- |
+| `plan_org_chart`          | ① プロジェクト体制図   |
+| `biz_state_transition`    | ⑤ ステータス遷移図     |
+| `req_customer_journey`    | ⑥ カスタマージャーニー |
+| `req_system_context`      | ⑦ システム構成図       |
+| `base_screen_transition`  | ⑧ 画面遷移図           |
+| `base_infra_architecture` | ⑨ インフラ構成図       |
+| `mig_data_flow`           | ⑬ データ移行方式図     |
 
 ---
 
